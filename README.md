@@ -1,3 +1,3 @@
-# KETI-annotationTool
+# KETI-annotation-tool
 
 ##### Coming soon
